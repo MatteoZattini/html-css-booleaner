@@ -2,7 +2,7 @@ body{
     margin: auto;
 }
 
-main{
+main, footer{
     padding: 5px;
 }
 
@@ -36,10 +36,13 @@ table{
     table-layout: fixed;
     width: 100%;
     text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 th{
     background-color: aquamarine;
+    
 }
 
 .tabella-row{
@@ -49,4 +52,21 @@ th{
 ul{
     margin: 0%;
     padding: 1%;
+}
+
+.Footer-title{
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.Footer-lorem{
+    position: absolute;
+    color: white;
+    top: 5px;
+    left: 5px;
+    font-size: 30px;
+}
+
+.image-container{
+    position: relative;
 }
