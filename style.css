@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.banner{
+    margin: auto;
+    background-image: url(./img/pattern.png);
+    width: auto;
+    height: 180px;
+    background-color: aquamarine;
+}
+
+.logo{
+    height: 250px;
+    width: 400px;
+}
