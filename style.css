@@ -56,7 +56,8 @@ ul{
 
 .Footer-title{
     color: gray;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: block;
 }
 
 .Footer-lorem{
