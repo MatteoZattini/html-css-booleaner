@@ -1,5 +1,9 @@
 body{
-    margin: 0;
+    margin: auto;
+}
+
+main{
+    padding: 5px;
 }
 
 .banner{
@@ -13,4 +17,36 @@ body{
 .logo{
     height: 250px;
     width: 400px;
+    margin-left: 10px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.Nome{
+    color: aquamarine;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+table{
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+th{
+    background-color: aquamarine;
+}
+
+.tabella-row{
+    background-color: rgb(141, 194, 176);
+}
+
+ul{
+    margin: 0%;
+    padding: 1%;
 }
